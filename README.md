@@ -5,3 +5,13 @@ This is a small auto-gradient engine. It implements backpropagation over a dynam
 
 * Full credit to Andrej Karpathy and his video on back propagation :)
 
+* These are things I plan to implement in the future
+
+    - A Module class in neuralnet.py
+    - Batching
+    - L2 Regularization
+    - Learning Decay
+    - Other non-linearities: ReLU, Sigmoid, etc
+
+* Note: This is not for production use
+
