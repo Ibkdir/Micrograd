@@ -13,5 +13,3 @@ This is a small auto-gradient engine. It implements backpropagation over a dynam
     - Learning Decay
     - Other non-linearities: ReLU, Sigmoid, etc
 
-* Note: This is not for production use
-
